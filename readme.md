@@ -1,0 +1,1 @@
+This repo consists of all the projects I have made using React and Redux. I have made these projects while learning Redux from the starting. First project is a redux state controlled blog post react app.
